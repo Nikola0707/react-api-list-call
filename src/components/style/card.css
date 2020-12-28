@@ -1,0 +1,21 @@
+.cardDiv{
+    border: 3px solid rgb(179, 156, 156);
+    width: 280px;
+    height: auto;
+    margin: 0 auto;
+    text-align: left;
+}
+.divTitle{
+    background-color: #8582e2;
+    width: 100%;
+    color: #fff;
+}
+.cardTitle{
+    text-align: center;
+    font-size: 0.9rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.cardParagraph{
+    font-size: 0.9rem;
+}
